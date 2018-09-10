@@ -3,9 +3,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mi pagina de prueba</title>
+    <title>MI PAGINA DE PRUEBA</title>
   </head>
   <body>
-    <img src="C:\Users\PAO\Desktop\Minnie.jpg" alt="Mi imagen de prueba">
+    <img src="C:\Users\PAO\Desktop\Minnie.jpg" alt="MINNIE MOUSE">
   </body>
 </html>
