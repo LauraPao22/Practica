@@ -6,6 +6,6 @@
     <title>MI PAGINA DE PRUEBA</title>
   </head>
   <body>
-    <img src="C:\Users\PAO\Desktop\Minnie.jpg" alt="MINNIE MOUSE">
+    <img src="C:\Users\PAO\Desktop\Minnie.jpg">
   </body>
 </html>
